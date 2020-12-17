@@ -1,0 +1,33 @@
+name: WakaTime Publish CI
+
+on:
+  schedule:
+    # https://crontab.guru/
+    # At 12:00 AM, only on Monday
+    - cron: 0 0 * * 1
+
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Set up Docker Buildx
+        uses: docker://arttet/update-readme:latest
+        env:
+          GITHUB_AUTH_TOKEN: ${{ github.token }}
+          WAKA_TIME_API_KEY: ${{ secrets.WAKA_TIME_API_KEY }}
+
+          INPUT_OWNER: arttet
+          INPUT_REPOSITORY: arttet
+          INPUT_COMMIT_MESSAGE: "Update README.md"
+
+          INPUT_SHOW_TITLE: true
+          INPUT_TABLE_HEIGHT: 5
+          INPUT_CELL_PADDING: -3
+
+          INPUT_BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
+          INPUT_BLOCK_LENGTH: 50
+
+          INPUT_START_SECTION: "<!--START_SECTION:waka-->"
+          INPUT_END_SECTION: "<!--END_SECTION:waka-->"
