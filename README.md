@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **arttet/arttet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2 align="center">👋 Hello! My name is Artyom. 👋</h2>
+
+- 🌱 I’m currently learning **AWS & Terraform**
+- 💬 Ask me about **C++, Go**
+
+---
+
+📊 **Weekly development breakdown**
 
 <!--START_SECTION:waka-->
 ```text
