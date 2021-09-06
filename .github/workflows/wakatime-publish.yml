@@ -29,5 +29,5 @@ jobs:
           INPUT_BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
           INPUT_BLOCK_LENGTH: 50
 
-          INPUT_START_SECTION: "<!--START_SECTION:waka-->"
-          INPUT_END_SECTION: "<!--END_SECTION:waka-->"
+          INPUT_START_SECTION: "<!- -START_SECTION:waka- ->"
+          INPUT_END_SECTION: "<!- -END_SECTION:waka- ->"
