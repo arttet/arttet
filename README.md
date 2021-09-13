@@ -20,7 +20,7 @@ My name is Artyom Tetyukhin, and I am a Software Development Engineer based in R
     - [ ] AWS Solutions Architect Certification
 - ❤️ I love to contribute to open source projects
 - 💬 Ask me about anything tech
-- 📫 Feel free to reach me out on [LinkedIn](https://linkedin.com/in/arttet)
+- 📫 Please feel free to reach out to me on [LinkedIn](https://linkedin.com/in/arttet)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a massive Liverpool Football Club fan
 
