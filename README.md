@@ -9,8 +9,6 @@ Hey there!
 My name is Artyom Tetyukhin, and I am a Software Development Engineer based in Russia, most passionate about writing beautiful, readable, maintainable, and tested code in C++, Go, and Rust. I also love Computer Graphics and DevOps automation.
 <p align="left">
 <a href="https://linkedin.com/in/arttet"><img alt="arttet" width="25px" src="images/linkedin.svg" /></a>
-<a href="https://www.hackerrank.com/arttet"><img alt="arttet" width="25px" src="images/hackerrank.svg" /></a>
-<a href="https://leetcode.com/arttet"><img alt="arttet" width="25px" src="images/leetcode.svg" /></a>
 <br>
 </p>
 
