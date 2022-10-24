@@ -31,7 +31,7 @@ My name is Artyom Tetyukhin, and I am a Software Development Engineer based in R
 
 <!- -START_SECTION:waka- ->
 ```text
-Week #40: 09 October, 2022 - 16 October, 2022
+Week #41: 16 October, 2022 - 23 October, 2022
 ```
 <!- -END_SECTION:waka- ->
 -->
