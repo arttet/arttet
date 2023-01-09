@@ -31,7 +31,7 @@ My name is Artyom Tetyukhin, and I am a Software Development Engineer based in R
 
 <!- -START_SECTION:waka- ->
 ```text
-Week #51: 25 December, 2022 - 01 January, 2023
+Week #52: 01 January, 2023 - 08 January, 2023
 ```
 <!- -END_SECTION:waka- ->
 -->
