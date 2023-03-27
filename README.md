@@ -4,7 +4,7 @@ Hey there!
 <a href="https://github.com/arttet"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 </h2>
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=arttet.arttet&color=00df00)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Farttet&label=Visitors&labelColor=%2337d67a&countColor=%2337d67a&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Farttet)
 
 My name is *Artyom Tetyukhin*, and I am a *Software Development Engineer* based in *Dubai*, most passionate about writing readable, testable, maintainable, and performant code in **C++**, **Go**, and **Rust**. I also love Computer Graphics and GitOps.
 <p align="left">
