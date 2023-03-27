@@ -6,7 +6,7 @@ Hey there!
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=arttet.arttet&color=00df00)
 
-My name is Artyom Tetyukhin, and I am a Software Development Engineer based in Russia, most passionate about writing readable, testable, maintainable, and performant code in C++, Go, and Rust. I also love Computer Graphics and DevOps automation.
+My name is Artyom Tetyukhin, and I am a Software Development Engineer based in Dubai, most passionate about writing readable, testable, maintainable, and performant code in C++, Go, and Rust. I also love Computer Graphics and DevOps automation.
 <p align="left">
 <a href="https://linkedin.com/in/arttet"><img alt="arttet" width="25px" src="images/linkedin.svg" /></a>
 <br>
@@ -14,8 +14,8 @@ My name is Artyom Tetyukhin, and I am a Software Development Engineer based in R
 
 - 🔭 I'm currently working as a Developer.
 - 🌱 I'm currently working on:
-    - [ ] IELTS Certification
-    - [ ] AWS Solutions Architect Certification
+    - [ ] Certified Kubernetes Application Developer (CKAD)
+    - [ ] Certified Kubernetes Administrator (CKA)
 - ❤️ I love to contribute to open source projects
 - 💬 Ask me about anything tech
 - 📫 Please feel free to reach out to me on [LinkedIn](https://linkedin.com/in/arttet)
