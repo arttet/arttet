@@ -6,7 +6,7 @@ Hey there!
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=arttet.arttet&color=00df00)
 
-My name is *Artyom Tetyukhin*, and I am a *Software Development Engineer* based in *Dubai*, most passionate about writing readable, testable, maintainable, and performant code in C++, Go, and Rust. I also love Computer Graphics and DevOps automation.
+My name is *Artyom Tetyukhin*, and I am a *Software Development Engineer* based in *Dubai*, most passionate about writing readable, testable, maintainable, and performant code in C++, Go, and Rust. I also love Computer Graphics and GitOps.
 <p align="left">
 <a href="https://linkedin.com/in/arttet"><img alt="arttet" width="25px" src="images/linkedin.svg" /></a>
 <br>
