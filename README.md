@@ -31,7 +31,7 @@ My name is *Artyom Tetyukhin*, and I am a *Software Development Engineer* based 
 
 <!- -START_SECTION:waka- ->
 ```text
-Week #39: 01 October, 2023 - 08 October, 2023
+Week #40: 08 October, 2023 - 15 October, 2023
 ```
 <!- -END_SECTION:waka- ->
 -->
