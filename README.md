@@ -29,6 +29,9 @@ My name is *Artyom Tetyukhin*, and I am a *Software Development Engineer* based 
 <!--
 📊 **Weekly development breakdown**
 
+[comment]: <> (BEGIN WAKATIME BOT MANAGED BLOCK)
+[comment]: <> (END WAKATIME BOT MANAGED BLOCK)
+
 <!- -START_SECTION:waka- ->
 ```text
 Week #52: 31 December, 2023 - 07 January, 2024
