@@ -45,7 +45,7 @@ Total Time: 20 hrs 40 mins
 
 <!- -START_SECTION:waka- ->
 ```text
-Week #1: 07 January, 2024 - 14 January, 2024
+Week #2: 14 January, 2024 - 21 January, 2024
 ```
 <!- -END_SECTION:waka- ->
 -->
