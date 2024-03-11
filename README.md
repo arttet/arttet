@@ -45,7 +45,7 @@ Total Time: 20 hrs 40 mins
 
 <!- -START_SECTION:waka- ->
 ```text
-Week #8: 25 February, 2024 - 03 March, 2024
+Week #9: 03 March, 2024 - 10 March, 2024
 ```
 <!- -END_SECTION:waka- ->
 -->
