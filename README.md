@@ -45,7 +45,7 @@ Total Time: 20 hrs 40 mins
 
 <!- -START_SECTION:waka- ->
 ```text
-Week #20: 19 May, 2024 - 26 May, 2024
+Week #21: 26 May, 2024 - 02 June, 2024
 ```
 <!- -END_SECTION:waka- ->
 -->
