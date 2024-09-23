@@ -45,7 +45,7 @@ Total Time: 20 hrs 40 mins
 
 <!- -START_SECTION:waka- ->
 ```text
-Week #36: 08 September, 2024 - 15 September, 2024
+Week #37: 15 September, 2024 - 22 September, 2024
 ```
 <!- -END_SECTION:waka- ->
 -->
