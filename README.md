@@ -45,7 +45,7 @@ Total Time: 20 hrs 40 mins
 
 <!- -START_SECTION:waka- ->
 ```text
-Week #45: 10 November, 2024 - 17 November, 2024
+Week #46: 17 November, 2024 - 24 November, 2024
 ```
 <!- -END_SECTION:waka- ->
 -->
