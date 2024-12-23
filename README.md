@@ -45,7 +45,7 @@ Total Time: 20 hrs 40 mins
 
 <!- -START_SECTION:waka- ->
 ```text
-Week #49: 08 December, 2024 - 15 December, 2024
+Week #50: 15 December, 2024 - 22 December, 2024
 ```
 <!- -END_SECTION:waka- ->
 -->
