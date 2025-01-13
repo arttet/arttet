@@ -45,7 +45,7 @@ Total Time: 20 hrs 40 mins
 
 <!- -START_SECTION:waka- ->
 ```text
-Week #52: 29 December, 2024 - 05 January, 2025
+Week #1: 05 January, 2025 - 12 January, 2025
 ```
 <!- -END_SECTION:waka- ->
 -->
