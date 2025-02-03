@@ -45,7 +45,7 @@ Total Time: 20 hrs 40 mins
 
 <!- -START_SECTION:waka- ->
 ```text
-Week #3: 19 January, 2025 - 26 January, 2025
+Week #4: 26 January, 2025 - 02 February, 2025
 ```
 <!- -END_SECTION:waka- ->
 -->
