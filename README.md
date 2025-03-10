@@ -45,7 +45,7 @@ Total Time: 20 hrs 40 mins
 
 <!- -START_SECTION:waka- ->
 ```text
-Week #8: 23 February, 2025 - 02 March, 2025
+Week #9: 02 March, 2025 - 09 March, 2025
 ```
 <!- -END_SECTION:waka- ->
 -->
