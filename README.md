@@ -45,7 +45,7 @@ Total Time: 20 hrs 40 mins
 
 <!- -START_SECTION:waka- ->
 ```text
-Week #21: 25 May, 2025 - 01 June, 2025
+Week #22: 01 June, 2025 - 08 June, 2025
 ```
 <!- -END_SECTION:waka- ->
 -->
