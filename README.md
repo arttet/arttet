@@ -45,7 +45,7 @@ Total Time: 20 hrs 40 mins
 
 <!- -START_SECTION:waka- ->
 ```text
-Week #31: 03 August, 2025 - 10 August, 2025
+Week #32: 10 August, 2025 - 17 August, 2025
 ```
 <!- -END_SECTION:waka- ->
 -->
