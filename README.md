@@ -45,7 +45,7 @@ Total Time: 20 hrs 40 mins
 
 <!- -START_SECTION:waka- ->
 ```text
-Week #42: 19 October, 2025 - 26 October, 2025
+Week #43: 26 October, 2025 - 02 November, 2025
 ```
 <!- -END_SECTION:waka- ->
 -->
