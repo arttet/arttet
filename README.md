@@ -45,7 +45,7 @@ Total Time: 20 hrs 40 mins
 
 <!- -START_SECTION:waka- ->
 ```text
-Week #52: 28 December, 2025 - 04 January, 2026
+Week #1: 04 January, 2026 - 11 January, 2026
 ```
 <!- -END_SECTION:waka- ->
 -->
