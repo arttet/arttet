@@ -45,7 +45,7 @@ Total Time: 20 hrs 40 mins
 
 <!- -START_SECTION:waka- ->
 ```text
-Week #2: 11 January, 2026 - 18 January, 2026
+Week #3: 18 January, 2026 - 25 January, 2026
 ```
 <!- -END_SECTION:waka- ->
 -->
